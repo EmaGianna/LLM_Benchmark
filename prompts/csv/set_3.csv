@@ -1,0 +1,11 @@
+id_promtp;complejidad;prompt
+1;Bajo;Buenos días, ¿cómo puedo ayudarte hoy?
+2;Bajo;¿Cuál es la capital de Francia?
+3;Medio;Estoy planeando un viaje a París. ¿Podrías recomendarme algunos lugares para visitar?
+4;Medio;Por favor, resúmeme este artículo sobre la inteligencia artificial.
+5;Medio;Traduce este texto del español al inglés.
+6;Alto;Escribe un poema sobre el amor.
+7;Alto;Escribe un guión para un cortometraje de comedia.
+8;Medio;"Escribe un código en Python que imprima ""Hola, mundo!"" en la consola."
+9;Alto;Utiliza Pandas para analizar este conjunto de datos y generar un gráfico de barras.
+10;Alto;Crea una función en PySpark que calcule la media de un campo en un conjunto de datos.
