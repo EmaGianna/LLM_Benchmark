@@ -152,6 +152,6 @@ cython_debug/
 #.idea/
 
 # PERSONAL: dev_folders_to_ignore
-nbk/
+nbk_dev/
 utiles/
 documents/
