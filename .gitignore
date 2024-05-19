@@ -153,3 +153,5 @@ cython_debug/
 
 # PERSONAL: dev_folders_to_ignore
 nbk/
+utiles/
+documents/
