@@ -1,10 +1,8 @@
-![](RackMultipart20240603-1-d0pprp_html_e1bdbe5089295398.jpg)
 
-![](RackMultipart20240603-1-d0pprp_html_f8d9f05b215df56e.jpg)
 
-**Trabajo ﬁn de Ciclo Complementario**
+# **Trabajo ﬁn de Ciclo Complementario**
 
-**Licenciatura en Ciencia de Datos**
+# **Licenciatura en Ciencia de Datos**
 
 # **Benchmark de LLMs desde la perspectiva de indicadores lingüísticos aplicados a las respuestas**
 
