@@ -14,19 +14,19 @@
 
 # Contenido
 
-[Introducción 2](#_Toc167562406)
+[Introducción](#_Toc167562406)
 
-[Que es un Modelo de Lenguaje Grande ( Large Language Model) 2](#_Toc167562407)
+[Que es un Modelo de Lenguaje Grande ( Large Language Model)](#_Toc167562407)
 
-[Brevísima historia de los LLM 4](#_Toc167562408)
+[Brevísima historia de los LLM](#_Toc167562408)
 
-[Consideraciones Iniciales 5](#_Toc167562409)
+[Consideraciones Iniciales](#_Toc167562409)
 
-[Objetivo 5](#_Toc167562410)
+[Objetivo](#_Toc167562410)
 
-[Consideraciones acerca de Frameworks de pruebas actuales. 5](#_Toc167562411)
+[Consideraciones acerca de Frameworks de pruebas actuales.](#_Toc167562411)
 
-[Selección de LLMs 6](#_Toc167562412)
+[Selección de LLMs](#_Toc167562412)
 
 [Herramientas Utilizadas 6](#_Toc167562413)
 
