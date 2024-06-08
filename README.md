@@ -196,7 +196,7 @@ en cada caso cuál de los LLMs dio mejor respuesta por sobre todo ( campos llama
 El último registro, el indicador “total_sum” es un totalizador de cada columna.
 
 ![tbl_compa_indicares_recbyrec](img/tbl_compa_indicares_recbyrec.png)
-<center>tabla 2- comparación y sumarización de indicadores.</center>  
+<p align="center">tabla 2- comparación y sumarización de indicadores.</p> 
 
 
 A continuación, se agregó a la tabla anterior, los valores expresados de modo porcentual (columnas (llama_better_percent, gemma_better_percent y equal). En los porcentajes totales, el cálculo se realizó de la siguiente manera:  
@@ -204,58 +204,58 @@ A continuación, se agregó a la tabla anterior, los valores expresados de modo 
 **_(total sumarizado para ese llm/el valor total) \*100 = % registro total_sum_**
 
 ![tbl_compa_indicares_recbyrec_II](img/tbl_compa_indicares_recbyrec_II.png)
-<center>tabla 3- comparación y sumarización de indicadores.</center>
+<p align="center">tabla 3- comparación y sumarización de indicadores.</p>
 
 A continuación, se logra observar de manera gráfica, la comparación entre los resultados obtenidos por cada una de las respuestas de ambos LLMs a los 10 prompts de test, que anteriormente se presentaron en forma numérica
 
 ![tiempo_de_lectura](img/tiempo_de_lectura.png)
-<center>Fig 1 - Comparación tiempo de lectura</center>
+<p align="center">Fig 1 - Comparación tiempo de lectura</p>
 
 ![cantidad_de_oraciones](img/cantidad_de_oraciones.png)
-<center>Fig 2 - Comparación cantidad de oraciones</center>
+<p align="center">Fig 2 - Comparación cantidad de oraciones</p>
 
 ![cantidad_de_caracteres](img/cantidad_de_caracteres.png)
-<center>Fig 3 - Comparación cantidad de caracteres</center>
+<p align="center">Fig 3 - Comparación cantidad de caracteres</p>
 
 ![cantidad_de_letras](img/cantidad_de_letras.png)
-<center>Fig 4 - Comparación cantidad de letras</center>
+<p align="center">Fig 4 - Comparación cantidad de letras</p>
 
 ![cantidad_de_silabas](img/cantidad_de_silabas.png)
-<center>Fig 5 - Comparación cantidad de sílabas</center>
+<p align="center">Fig 5 - Comparación cantidad de sílabas</p>
 
 ![largo_promedio_oraciones](img/largo_promedio_oraciones.png)
-<center>Fig 6 - Comparación largo promedio de oraciones</center>
+<p align="center">Fig 6 - Comparación largo promedio de oraciones</p>
 
 ![promedio_letras_palabra](img/promedio_letras_palabra.png)
-<center>Fig 7 - Comparación promedio de letras por palabra</center>
+<p align="center">Fig 7 - Comparación promedio de letras por palabra</p>
 
 ![cantidad_stopwords](img/cantidad_stopwords.png)
-<center>Fig 8 - Comparación cantidad de stopwords</center>
+<p align="center">Fig 8 - Comparación cantidad de stopwords</p>
 
 ![cantidad_palabras](img/cantidad_palabras.png)
-<center>Fig 9 - Comparación cantidad de palabras</center>
+<p align="center">Fig 9 - Comparación cantidad de palabras</p>
 
 ![densidad_lexica](img/densidad_lexica.png)
-<center>Fig 10 - Comparación densidad léxica</center>
+<p align="center">Fig 10 - Comparación densidad léxica</p>
 
 ![riqueza_lexica](img/riqueza_lexica.png)
-<center>Fig 11 - Comparación riqueza léxica</center>
+<p align="center">Fig 11 - Comparación riqueza léxica</p>
 
 ### Análisis Sentimientos
 
 En esta sección evaluamos, mediante el análisis de sentimientos, la “cordialidad” de cada respuesta de los LLMs
 
 ![tbl_sentimientos_llama](img/tbl_sentimientos_llama.png)
-<center>tabla 4 - análisis de sentimiento de llama2</center>
+<p align="center">tabla 4 - análisis de sentimiento de llama2</p>
 
 ![Historia_LLM](img/sentimientos_llama.png)
-<center>Fig 12 - Distribución del análisis de sentimiento para llama2</center>
+<p align="center">Fig 12 - Distribución del análisis de sentimiento para llama2</p>
 
 ![tbl_sentimientos_gemma](img/tbl_sentimientos_gemma.png)
-<center>tabla 5 - análisis de sentimiento de gemma</center>
+<p align="center">tabla 5 - análisis de sentimiento de gemma</p>
 
-![sentimientos_gemma](img/sentimientos_gemma.png)
-<center>Fig 13 - Distribución del análisis de sentimiento para gemma</center>
+<p align="center">![sentimientos_gemma](img/sentimientos_gemma.png)</p>
+<p align="center">Fig 13 - Distribución del análisis de sentimiento para gemma</p>
 
 ## Conclusiones
 
