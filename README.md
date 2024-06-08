@@ -157,7 +157,7 @@ Como se observa, para la presente “prueba de concepto” sólo se han desarrol
 | 9   | Alta | Utiliza Pandas para analizar este conjunto de datos y generar un gráfico de barras. |
 | 10  | Alta | Crea una función en PySpark que calcule la media de un campo en un conjunto de datos. |
 
-<center>Tabla 1 - Prompts de test</center>
+<p align="center">Tabla 1 - Prompts de test</p>
 
 El prompt número 5, se envió un breve texto para que se le realice una traducción del español al inglés. La respuesta en ese caso debe ser en inglés, en los demás casos, la respuesta debe ser en castellano para ser evaluada como correcta, en caso contrario, se marcará como errónea y ese registro no será tenido en cuenta para las estadísticas que se obtienen.
 
