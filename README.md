@@ -167,6 +167,8 @@ El prompt número 5, se envió un breve texto para que se le realice una traducc
 
 ## Respuestas a los Prompts de experimentación por parte de los LLM
 
+Debido al tamaño de las respuestas y a que crear tablas aquí ocuparían demasiado espacio procedemos a dejar los links a los archivos donde se encuentran las respuestas dadas por cada LLMs
+
 - [Respuestas Gemma](https://github.com/EmaGianna/LLM_Benchmark/blob/main/prompts/csv/respuestas_gemma.csv)
 - [Respuestas Llama2](https://github.com/EmaGianna/LLM_Benchmark/blob/main/prompts/csv/respuestas_llama.csv)
 
@@ -201,7 +203,7 @@ El último registro, el indicador “total_sum” es un totalizador de cada colu
 
 A continuación, se agregó a la tabla anterior, los valores expresados de modo porcentual (columnas (llama_better_percent, gemma_better_percent y equal). En los porcentajes totales, el cálculo se realizó de la siguiente manera:  
 
-**_(total sumarizado para ese llm/el valor total) \*100 = % registro total_sum_**
+<p align="center"><b>(total sumarizado para ese llm / el valor total)*100 = % registro total_sum</b></p>
 
 ![tbl_compa_indicares_recbyrec_II](img/tbl_compa_indicares_recbyrec_II.png)
 <p align="center">tabla 3- comparación y sumarización de indicadores.</p>
@@ -245,16 +247,19 @@ A continuación, se logra observar de manera gráfica, la comparación entre los
 
 En esta sección evaluamos, mediante el análisis de sentimientos, la “cordialidad” de cada respuesta de los LLMs
 
-![tbl_sentimientos_llama](img/tbl_sentimientos_llama.png)
+<p align="center"><img src="img/tbl_sentimientos_llama.png"</p>
 <p align="center">tabla 4 - análisis de sentimiento de llama2</p>
 
-![Historia_LLM](img/sentimientos_llama.png)
+![sentimientos_llama](img/sentimientos_llama.png)
 <p align="center">Fig 12 - Distribución del análisis de sentimiento para llama2</p>
 
-![tbl_sentimientos_gemma](img/tbl_sentimientos_gemma.png)
+
+<p align="center"><img src="img/tbl_sentimientos_gemma.png"</p>
 <p align="center">tabla 5 - análisis de sentimiento de gemma</p>
 
-<p align="center">![sentimientos_gemma](img/sentimientos_gemma.png)</p>
+
+
+![sentimientos_gemma](img/sentimientos_gemma.png)
 <p align="center">Fig 13 - Distribución del análisis de sentimiento para gemma</p>
 
 ## Conclusiones
