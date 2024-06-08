@@ -197,7 +197,7 @@ en cada caso cuál de los LLMs dio mejor respuesta por sobre todo ( campos llama
 
 El último registro, el indicador “total_sum” es un totalizador de cada columna.
 
-![tbl_compa_indicares_recbyrec](img/tbl_compa_indicares_recbyrec.png)
+<p align="center"><img src="img/tbl_compa_indicares_recbyrec.png"</p>
 <p align="center">tabla 2- comparación y sumarización de indicadores.</p> 
 
 
@@ -205,7 +205,7 @@ A continuación, se agregó a la tabla anterior, los valores expresados de modo 
 
 <p align="center"><b>(total sumarizado para ese llm / el valor total)*100 = % registro total_sum</b></p>
 
-![tbl_compa_indicares_recbyrec_II](img/tbl_compa_indicares_recbyrec_II.png)
+<p align="center"><img src="img/tbl_compa_indicares_recbyrec_II.png"</p>
 <p align="center">tabla 3- comparación y sumarización de indicadores.</p>
 
 A continuación, se logra observar de manera gráfica, la comparación entre los resultados obtenidos por cada una de las respuestas de ambos LLMs a los 10 prompts de test, que anteriormente se presentaron en forma numérica
