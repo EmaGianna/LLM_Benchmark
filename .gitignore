@@ -1,4 +1,3 @@
 # PERSONAL: dev_folders_to_ignore
 nbk_dev/
-utiles/
-documents/
+nbk_dev/.git/
